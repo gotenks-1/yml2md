@@ -1,0 +1,69 @@
+- uid: azure-iot-device
+  name: azure-iot-device
+  items:
+    - uid: azure-iot-device.AmqpTransportOptions
+      name: AmqpTransportOptions
+      items: []
+    - uid: azure-iot-device.BlobUpload
+      name: BlobUpload
+      items: []
+    - uid: azure-iot-device.Client
+      name: Client
+      items: []
+    - uid: azure-iot-device.DeviceClientOptions
+      name: DeviceClientOptions
+      items: []
+    - uid: azure-iot-device.DeviceMethodExchange
+      name: DeviceMethodExchange
+      items: []
+    - uid: azure-iot-device.DeviceMethodRequest
+      name: DeviceMethodRequest
+      items: []
+    - uid: azure-iot-device.DeviceMethodResponse
+      name: DeviceMethodResponse
+      items: []
+    - uid: azure-iot-device.DeviceTransport
+      name: DeviceTransport
+      items: []
+    - uid: azure-iot-device.HttpReceiverOptions
+      name: HttpReceiverOptions
+      items: []
+    - uid: azure-iot-device.HttpTransportOptions
+      name: HttpTransportOptions
+      items: []
+    - uid: azure-iot-device.IotEdgeAuthenticationProvider
+      name: IotEdgeAuthenticationProvider
+      items: []
+    - uid: azure-iot-device.MethodCallback
+      name: MethodCallback
+      items: []
+    - uid: azure-iot-device.MethodParams
+      name: MethodParams
+      items: []
+    - uid: azure-iot-device.MethodResult
+      name: MethodResult
+      items: []
+    - uid: azure-iot-device.ModuleClient
+      name: ModuleClient
+      items: []
+    - uid: azure-iot-device.MqttTransportOptions
+      name: MqttTransportOptions
+      items: []
+    - uid: azure-iot-device.SharedAccessKeyAuthenticationProvider
+      name: SharedAccessKeyAuthenticationProvider
+      items: []
+    - uid: azure-iot-device.SharedAccessSignatureAuthenticationProvider
+      name: SharedAccessSignatureAuthenticationProvider
+      items: []
+    - uid: azure-iot-device.TransportCtor
+      name: TransportCtor
+      items: []
+    - uid: azure-iot-device.Twin
+      name: Twin
+      items: []
+    - uid: azure-iot-device.TwinProperties
+      name: TwinProperties
+      items: []
+    - uid: azure-iot-device.X509AuthenticationProvider
+      name: X509AuthenticationProvider
+      items: []
